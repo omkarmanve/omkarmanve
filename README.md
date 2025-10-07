@@ -104,10 +104,10 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/omkarmanve/" target="_blank">
+  <a href="[https://www.linkedin.com/in/omkarmanve/](https://www.linkedin.com/in/omkar-manve/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:omkarmanve@gmail.com">
+  <a href="mailto:omkarmanwe2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://omkarmanve.github.io" target="_blank">
