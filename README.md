@@ -1,10 +1,12 @@
+<div style="background-color:#000000; color:#F0F0F0; padding:20px; border-radius:10px;">
+
 <h1 align="center">Hi 👋, I'm Omkar Manve</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=FULL+STACK+WEB+DEVELOPER;REACT+JS+%7C+JAVASCRIPT+%7C+REDUX;NODE+JS+%7C+EXPRESS+JS+%7C+MONGODB;REACT+NATIVE+%7C+FIREBASE;BUILDING+PROJECTS+%F0%9F%9A%80;LEARNING+EVERY+DAY+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
----
+<hr style="border-color:#444444;">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20c0051eeb5965f0633489df7.gif" />
 
@@ -23,7 +25,7 @@
   <strong style="color:#7CFC00;">I'm always ready for the next big challenge!</strong>
 </p>
 
----
+<hr style="border-color:#444444;">
 
 ### 👨‍💻 About Me
 
@@ -33,7 +35,7 @@
 - 🧠 Learning Full Stack Web Development  
 - 🤝 Open to collaboration and building impactful projects  
 
----
+<hr style="border-color:#444444;">
 
 ### ⚙️ Tech Stack
 
@@ -51,7 +53,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+<hr style="border-color:#444444;">
 
 ### 🧠 Programming Languages
 
@@ -63,7 +65,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
+<hr style="border-color:#444444;">
 
 ### 🏆 GitHub Trophies
 
@@ -71,7 +73,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=omkarmanve&theme=onedark&column=6&margin-w=5&margin-h=15" alt="GitHub Trophies" />
 </p>
 
----
+<hr style="border-color:#444444;">
 
 ## 📊 GitHub Stats
 
@@ -83,7 +85,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmanve&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<hr style="border-color:#444444;">
 
 ### 🔥 GitHub Streak
 
@@ -91,7 +93,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarmanve&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+<hr style="border-color:#444444;">
 
 ### 📊 Recent GitHub Activity
 
@@ -99,11 +101,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarmanve&theme=github-compact&hide_border=true" />
 </p>
 
----
+<hr style="border-color:#444444;">
 
 ### 📫 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/omkar-manve/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -114,3 +116,5 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
+</div>
