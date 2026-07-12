@@ -1,132 +1,117 @@
-&lt;!-- Banner --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://raw.githubusercontent.com/omkarmanve/omkarmanve/main/ban.png" alt="Banner" width="100%" /&gt;
-&lt;/p&gt;
+<div align="center">
 
-&lt;!-- Animated Typing --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C+World!%22);Full+Stack+Developer;Clean+%E2%9C%A8+Fast+%E2%9A%A1+Scalable" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=280&section=header&text=Hey,%20I'm%20Omkar%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Building%20fast,%20clean%20web%20apps&descAlignY=55&descSize=18" width="100%"/>
 
-&lt;!-- Coding GIF --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420" alt="Coding GIF" /&gt;
-&lt;/p&gt;
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+TypeScript;I+turn+coffee+into+code+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
 
----
+<br/><br/>
 
-## 👋 About Me
+<a href="https://www.linkedin.com/in/omkar-manve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:omkarmanwe2000@gamil.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://profile-phi-sepia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-I'm a **Full Stack Developer** passionate about crafting web applications that are:
+<br/>
 
-- ✨ **Clean** — Readable, maintainable code  
-- ⚡ **Fast** — Optimized for performance  
-- 🧑‍💻 **User-friendly** — Intuitive, accessible interfaces  
+<img src="https://komarev.com/ghpvc/?username=omkarmanve&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" />
 
-I thrive across the **entire stack**, building responsive UIs and powering them with robust, scalable backend systems.
+</div>
 
-### 💡 What I Do
-- 🎨 **Frontend** — Clean, responsive, accessible UI
-- 🛠️ **Backend** — Secure, scalable APIs & microservices
-- 🧼 **Architecture** — Clean code & maintainable patterns
-- 📈 **Performance** — Speed & scalability focused
-- 📚 **Growth** — Constant learner & problem solver
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🧰 Tech Stack
+<br/>
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+## 🚀 About Me
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+```yaml
+👨‍💻 Name:        Omkar Manve
+🎯 Role:        Full Stack Developer
+🌱 Learning:    Go, GraphQL, System Design
+⚡ Loves:       Clean code & scalable systems
+🎮 Fun fact:    console.log() is my best friend
+💬 Ask me about: React, Node.js, Web Architecture
+```
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+I craft **pixel-perfect frontends** and power them with **rock-solid backends**. Passionate about performance, clean architecture, and building products people actually enjoy using.
 
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+<br clear="both"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🌐 Connect With Me
+## 🛠️ Tech Arsenal
 
-&lt;p align="left"&gt;
-  &lt;a href="mailto:omkarmanwe2000@gmail.com" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/omkar-manve/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://profile-phi-sepia.vercel.app/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<div align="center">
 
----
+**Languages & Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,redux,vite&theme=dark" />
 
-## 📊 GitHub Stats
+<br/><br/>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=omkarmanve&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="180" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmanve&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="180" /&gt;
-&lt;/p&gt;
+**Backend & Database**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,mongodb,postgres,mysql&theme=dark" />
 
-&lt;p align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com?user=omkarmanve&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%" /&gt;
-&lt;/p&gt;
+<br/><br/>
 
----
+**Tools & Platforms**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,netlify&theme=dark" />
 
-## 🐍 Contribution Graph
+</div>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github.com/omkarmanve/omkarmanve/blob/output/github-snake.svg" alt="Contribution Snake" /&gt;
-&lt;/p&gt;
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## ✍️ Dev Quote
+## 📊 GitHub Analytics
 
-&lt;p align="center"&gt;
-  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /&gt;
-&lt;/p&gt;
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=SarwarMorshad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarwarMorshad&layout=compact&theme=radical&hide_border=true" width="48%"/>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=omkarmanve&color=61DAFB&style=for-the-badge" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<img src="https://streak-stats.demolab.com?user=SarwarMorshad&theme=radical&hide_border=true" width="70%"/>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Built%20with-❤️-61DAFB?style=for-the-badge" alt="Built with Love" /&gt;
-&lt;/p&gt;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarwarMorshad&theme=react-dark&hide_border=true" width="100%"/>
 
-&lt;!-- Footer Wave --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=264653&height=100&section=footer" /&gt;
-&lt;/p&gt;
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SarwarMorshad&theme=radical&no-frame=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://github.com/SarwarMorshad/SarwarMorshad/blob/output/github-snake.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 💭 Quote of the Moment
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌟 Thanks for stopping by! Let's build something amazing together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:EC4899,100:8B5CF6&height=180&section=footer"/>
+
+</div>
