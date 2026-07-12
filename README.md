@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/omkar-manve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:omkarmanwe2000@gamil.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://profile-phi-sepia.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/omkarmanwe/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br/>
 
@@ -86,6 +87,16 @@ I craft **pixel-perfect frontends** and power them with **rock-solid backends**.
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SarwarMorshad&theme=radical&no-frame=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/omkarmanwe?theme=dark&font=Fira%20Code&ext=heatmap" width="90%"/>
 </div>
 
 <br/>
